@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: n4vpn/nanda:latest
+          tags: n4nd4/nanda:latest
